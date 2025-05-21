@@ -1,6 +1,7 @@
 The MIT License (MIT)
 
-Copyright (c) 2025 Success Robert (https://codepen.io/Success-Robert/pen/VYYJEzj)
+Copyright (c) 2025 Success Robert (https://codepen.io/Success-Robert/pen/dPPBXGZ)
+Fork of an original work My Website(Practice)  (https://codepen.io/Success-Robert/pen/LEEoBpO)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
